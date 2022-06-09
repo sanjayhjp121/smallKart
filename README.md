@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live demo to the project :- https://sanjayhjp121.github.io//smallKart/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
